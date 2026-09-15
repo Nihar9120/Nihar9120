@@ -27,7 +27,6 @@ I'm passionate about building reliable deployment pipelines, automating infrastr
 * 🐳 Working with **Docker & containerized applications**
 * ☸️ Learning and implementing **Kubernetes**
 * 🏗️ Automating infrastructure using **Terraform**
-* ⚙️ Automating configuration using **Ansible**
 * 🐧 Working extensively with **Linux**
 * 🌱 Continuously learning **Cloud, DevOps & DevSecOps**
 * 👯 Looking to collaborate on **DevOps and Cloud projects**
