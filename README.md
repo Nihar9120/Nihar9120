@@ -1,7 +1,7 @@
                                                                   Hii Friends 👋
 
 <h3 align="center">
-  🚀 AWS DevOps Engineer | Cloud & DevOps | CI/CD | Automation
+   AWS DevOps Engineer | Cloud & DevOps | CI/CD | Automation
 </h3>
 
 <p align="center">
