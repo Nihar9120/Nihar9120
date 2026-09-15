@@ -1,19 +1,4 @@
-## Hi there 👋
-
-<!--
-**Nihar9120/Nihar9120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Hi 👋, I'm Nihar Ranjan Pradhan
+# Hi 👋, I'm Nihar Ranjan Pradhan
 
 <h3 align="center">
   🚀 AWS DevOps Engineer | Cloud & DevOps | CI/CD | Automation
@@ -390,5 +375,3 @@ Interested in working on:
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Nihar9120&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
-
-
